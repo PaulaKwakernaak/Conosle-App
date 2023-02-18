@@ -1,2 +1,2 @@
-# Conosole-App
+# Console-App
 Console App and Documentatiion
