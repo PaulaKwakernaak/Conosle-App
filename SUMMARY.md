@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welkom bij deze conosle app](README.md)
+* [👋 Welkom bij deze console app](README.md)
 
 ## Overview
 
