@@ -5,7 +5,7 @@ description: >-
   dat erbij hoort.
 ---
 
-# 👋 Welkom bij deze conosle app
+# 👋 Welkom bij deze console app
 
 ****
 
